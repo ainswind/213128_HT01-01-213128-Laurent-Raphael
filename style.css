@@ -1,0 +1,98 @@
+body {
+	width: 960px;
+	margin-left: 50px;
+	font-family: arial, verdana, sans-serif;
+}
+
+blockquote{margin-left: 90px;
+	border: 1px dashed  #aa3222;
+    color: black;
+    width: 450px;
+    font-size: 16px;
+    background-color: #ededed;
+    padding: 20px 20px 20px 20px;
+    font-style: italic;
+}
+
+h1 {color: #aa3222; font-size: 20px;} 
+
+h2 {color: black; font-size: 24px;margin-top:45px;}
+
+h3 {color: black; font-size: 18px;}
+
+p {color: black; font-size: 14px;}
+
+a{text-decoration: none;}
+
+.savoir {color:#aa3222; font-size: 14px;}
+
+.menu{color: white;}
+
+li{
+	list-style: none;
+	background-color: #aa3222;
+	border-bottom-style: dashed;
+	border-color: #cccccc;
+	color: #cccccc;
+	font-size: 12px;
+	border-width: 1px;
+
+}
+
+#menu{ 
+	background-color: #aa3222;
+	margin-bottom: 0px;
+	padding-top: 10px;
+
+	height: 100px;
+	}
+
+table {
+    border-collapse: collapse;
+    width: 600px;
+    text-align: center;
+
+    
+}
+
+.jours {
+    border: 1px solid  #aa3222;
+    color: black;
+    font-size: 14px;
+	font-weight:bold;
+
+
+}
+
+
+.horaires{
+	border: 1px solid  #aa3222;
+    color: black;
+    font-size: 12px;
+}
+
+td{
+	border: 1px solid  #aa3222;
+    color: black;
+    padding: 4px;
+
+}
+
+#footer{
+	text-align: center;
+	color: #721717;
+	background-color: #aaaaaa;
+	padding: 30px 30px 30px 30px;
+	margin-top: 80px;
+
+}
+
+.image{
+	height: 150px;
+	padding-right: 25px;
+
+}
+#contact{
+	text-align: left;
+}
+
